@@ -19,9 +19,8 @@ https://www.selenium.dev/downloads/
 - After installing Eclipse, go to Help -> Eclipse Marketplace.
 - Search for TestNG.
 - Install TestNG.
---
-To run the tests, you need to download the source code.
---
+
+Steps to Run Test
 1) Right click on DemoTestNG, and click Build Path -> Configure Build Path.
 2) Click on the Libarires tab.
 3) Click on Classpath -> Add External JARs.
